@@ -13,3 +13,12 @@ chmod + x *.sh
 ./audit_users.sh
 ‘‘‘
 ## LicenceEducational use only
+## Changelog
+
+### 2026 -01 -29
+- Ajout du script audit_logs.sh
+- Analyse des connexions SSH et commandes sudo
+
+### 2026 -01 -29 ( initial )
+- Création du projet
+- Scripts audit_users.sh et audit_permissions.sh
